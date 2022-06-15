@@ -2,6 +2,5 @@
 
 Цены свопов взять по ссылке https://www.chathamfinancial.com/technology/european-market-rates#view
 
-Для честной цены однолетнего свопа используется формула: ![\frac{\textmb{Price}}{4}(DF_{3m}+DF_{6m}+DF_{9m}+DF_{12m}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
-
+Для честной цены однолетнего свопа используется формула: [![\frac{\textmb{Price}}{4}(DF_{3m}+DF_{6m}+DF_{9m}+DF_{12m}]](https://latex.codecogs.com/svg.image?\frac{Price}{4}(DF_{3m}&plus;DF_{6m}&plus;DF_{9m}&plus;DF_{12m}){\color{Teal}})
 Строится сплайновая интерполяция
